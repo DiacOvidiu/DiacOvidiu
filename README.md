@@ -1,16 +1,63 @@
-### Hi there 👋
 
-<!--
-**DiacOvidiu/DiacOvidiu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to my github profile ! -.-
 
-Here are some ideas to get you started:
+- Contact e-mail: diacovidiu15@gmail.com
+- Linkedin profile: https://www.linkedin.com/in/ovidiu-diac-438162154/
+- Website in construction: www.diacovidiu.ro
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+# Hi, I'm Ovidiu! 👋
+I'm passionate Manual Software Testing from Romania !
+
+"If we want to be serious about quality, it is time to get tired of finding bugs and start preventing their happening in the first place."
+
+
+My name is Ovidiu and I'm manual tester software. 
+
+
+# TECHNICAL AND ORGANIZATIONAL SKILLS
+- Time management, problem solving, communication
+- excellent bug reporting & test case writing skills
+- excellent test reporting skills (test plan writing-Test progress & summary report writing)
+- Mobile application testing skills, web application testing skills, slot-machine testing skills
+- Basic API Testing knowledge using Postman
+
+# EXPERIENCE
+[2018 - Present] QA Manual Tester
+
+Activities performed during my day-to-day activities:
+-
+- writing test plans, test cases, defect reports, test progress & summary reports
+- ensure quality, integrity, efficiency
+- contribute to process development and improvement
+- ensure good functionality of the software
+- check accounting, corrections and implementations
+- check SAS protocol
+- debugging and defect reproduction
+- prioritise tests
+- create testing documentation
+- check hand-playing history
+Programs in which I contributed as a tester: internal programs, slot-machine,
+casino online
+
+Types of testing that I used: retesting, regression testing, functional and non-functional testing (compatibility testing, usability testing)
+
+Test techniques that I used: equivalence partitioning / boundary value analysis,
+exploratory testing, error guessing
+Levels of testings that I used: system testing, acceptance testing
+
+# Manual Testing Course
+- Intro to Testing (General Testing Concepts)
+- Test Design Techniques (Static, Dynamic - Blackbox,Whitebox)
+- Risk Based Testing
+- Testing Tools
+- Basics of API Testing
+- Intro to SQL
+- MySQL Workbench
+
+# Tools
+- Postman
+- OpenProject
+- Jira
+- Zephyr
+

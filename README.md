@@ -37,6 +37,7 @@ Activities performed during my day-to-day activities:
 - prioritise tests
 - create testing documentation
 - check hand-playing history
+
 Programs in which I contributed as a tester: internal programs, slot-machine,
 casino online
 

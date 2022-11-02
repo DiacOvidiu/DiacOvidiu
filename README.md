@@ -7,18 +7,18 @@
 
 
 # Hi, I'm Ovidiu! 👋
-I'm passionate Manual Software Testing from Romania !
+I am a passionate Manual Software Tester from Romania !
 
 "If we want to be serious about quality, it is time to get tired of finding bugs and start preventing their happening in the first place."
 
 
-My name is Ovidiu and I'm manual tester software. 
+My name is Ovidiu and I'm a manual software software tester. 
 
 
 # TECHNICAL AND ORGANIZATIONAL SKILLS
 - Time management, problem solving, communication
-- excellent bug reporting & test case writing skills
-- excellent test reporting skills (test plan writing-Test progress & summary report writing)
+- Excellent bug reporting & test case writing skills
+- Excellent test reporting skills (test plan writing-Test progress & summary report writing)
 - Mobile application testing skills, web application testing skills, slot-machine testing skills
 - Basic API Testing knowledge using Postman
 

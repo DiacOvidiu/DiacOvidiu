@@ -45,6 +45,7 @@ Types of testing that I used: retesting, regression testing, functional and non-
 
 Test techniques that I used: equivalence partitioning / boundary value analysis,
 exploratory testing, error guessing
+
 Levels of testings that I used: system testing, acceptance testing
 
 # Manual Testing Course

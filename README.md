@@ -26,6 +26,7 @@ My name is Ovidiu and I'm a manual & automation web tester.
 
 # EXPERIENCE
 [Mar.2018 - Aug.2023] QA Manual Tester
+
 [Sept.2023 - Present] Manual & Automation Web Tester
 
 

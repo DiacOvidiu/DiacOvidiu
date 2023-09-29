@@ -68,4 +68,5 @@ My name is Ovidiu and I'm a manual & automation web tester.
 - Zephyr
 - Selenium
 - BitBucket
+  
 

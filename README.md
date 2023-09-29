@@ -25,9 +25,11 @@ My name is Ovidiu and I'm a manual & automation web tester.
 - Basic API Testing knowledge using Postman
 
 # EXPERIENCE
-[Mar.2018 - Aug.2023] QA Manual Tester
+[Mar.2018 - Aug.2023] QA Manual Tester (Baum Games)
 
-[Sept.2023 - Present] Manual & Automation Web Tester
+[Sept.2023 - Present] Manual & Automation Web Tester (Travelio Romania - FILIP NET SRL)
+
+          Project: Karpaten Tourism (ERP+Website)
 
 
 # Activities performed during my day-to-day activities:
@@ -65,4 +67,5 @@ My name is Ovidiu and I'm a manual & automation web tester.
 - Jira
 - Zephyr
 - Selenium
+- BitBucket
 

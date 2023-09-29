@@ -7,44 +7,44 @@
 
 
 # Hi, I'm Ovidiu! 👋
-I am a passionate Manual Software Tester from Romania !
+I am a passionate Software Tester from Romania !
 
 "If we want to be serious about quality, it is time to get tired of finding bugs and start preventing their happening in the first place."
 
 
-My name is Ovidiu and I'm a manual software software tester. 
+My name is Ovidiu and I'm a manual & automation web tester. 
 
 
 # TECHNICAL AND ORGANIZATIONAL SKILLS
 - Time management, problem solving, communication
 - Excellent bug reporting & test case writing skills
 - Excellent test reporting skills (test plan writing-Test progress & summary report writing)
-- Mobile application testing skills, web application testing skills, slot-machine testing skills
+- Mobile iOS application testing skills
+- Web application testing skills
+- Slot-machine testing skills
 - Basic API Testing knowledge using Postman
 
 # EXPERIENCE
-[2018 - Present] QA Manual Tester
+[Mar.2018 - Aug.2023] QA Manual Tester
+[Sept.2023 - Present] Manual & Automation Web Tester
 
 Activities performed during my day-to-day activities:
--
+
 - writing test plans, test cases, defect reports, test progress & summary reports
 - ensure quality, integrity, efficiency
 - contribute to process development and improvement
 - ensure good functionality of the software
 - check accounting, corrections and implementations
-- check SAS protocol
 - debugging and defect reproduction
 - prioritise tests
 - create testing documentation
-- check hand-playing history
+- create automation tests
 
-Programs in which I contributed as a tester: internal programs, slot-machine,
-casino online
+Programs in which I contributed as a tester: internal programs, slot-machine, casino online, tourism projects
 
-Types of testing that I used: retesting, regression testing, functional and non-functional testing (compatibility testing, usability testing)
+Types of testing that I used: retesting, regression testing, functional and non-functional testing (compatibility testing, usability testing, sanity testing)
 
-Test techniques that I used: equivalence partitioning / boundary value analysis,
-exploratory testing, error guessing
+Test techniques that I used: equivalence partitioning / boundary value analysis, exploratory testing, error guessing
 
 Levels of testings that I used: system testing, acceptance testing
 
@@ -62,4 +62,5 @@ Levels of testings that I used: system testing, acceptance testing
 - OpenProject
 - Jira
 - Zephyr
+- Selenium
 

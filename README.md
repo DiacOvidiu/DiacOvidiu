@@ -30,7 +30,7 @@ My name is Ovidiu and I'm a manual & automation web tester.
 [Sept.2023 - Present] Manual & Automation Web Tester
 
 
-Activities performed during my day-to-day activities:
+# Activities performed during my day-to-day activities:
 
 - writing test plans, test cases, defect reports, test progress & summary reports
 - ensure quality, integrity, efficiency
@@ -42,13 +42,13 @@ Activities performed during my day-to-day activities:
 - create testing documentation
 - create automation tests
 
-Programs in which I contributed as a tester: internal programs, slot-machine, casino online, tourism projects
+# Programs in which I contributed as a tester: internal programs, slot-machine, casino online, tourism projects
 
-Types of testing that I used: retesting, regression testing, functional and non-functional testing (compatibility testing, usability testing, sanity testing)
+# Types of testing that I used: retesting, regression testing, functional and non-functional testing (compatibility testing, usability testing, sanity testing)
 
-Test techniques that I used: equivalence partitioning / boundary value analysis, exploratory testing, error guessing
+# Test techniques that I used: equivalence partitioning / boundary value analysis, exploratory testing, error guessing
 
-Levels of testings that I used: system testing, acceptance testing
+# Levels of testings that I used: system testing, acceptance testing
 
 # Manual Testing Course
 - Intro to Testing (General Testing Concepts)

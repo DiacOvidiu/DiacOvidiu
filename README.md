@@ -28,6 +28,7 @@ My name is Ovidiu and I'm a manual & automation web tester.
 [Mar.2018 - Aug.2023] QA Manual Tester
 [Sept.2023 - Present] Manual & Automation Web Tester
 
+
 Activities performed during my day-to-day activities:
 
 - writing test plans, test cases, defect reports, test progress & summary reports

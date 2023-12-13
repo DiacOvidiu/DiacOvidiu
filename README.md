@@ -3,7 +3,6 @@
 
 - Contact e-mail: diacovidiu15@gmail.com
 - Linkedin profile: https://www.linkedin.com/in/ovidiu-diac-438162154/
-- Website: www.diacovidiu.ro
 
 
 # Hi, I'm Ovidiu! 👋
